@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleTextToSpeechAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="katakan">Katakan</string>
+    <string name="masukan_kata">Masukan Kata</string>
+    <string name="asep_rojali">Asep Rojali</string>
+
+</resources>
