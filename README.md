@@ -1,4 +1,4 @@
 SampleTextToSpeechAndroid
 =========================
 
-Sample text to speech dengan android
+Sample text to speech android
